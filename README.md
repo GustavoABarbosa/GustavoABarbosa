@@ -52,7 +52,7 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=GustavoABarbosa&theme=dark&hide_border=true&border_radius=20&short_numbers=true" />
+  <img src="https://streak-stats.demolab.com?user=GustavoABarbosa&theme=dark&hide_border=true&border_radius=20&short_numbers=true&mode=weekly" />
 </div>
 
 <br>
