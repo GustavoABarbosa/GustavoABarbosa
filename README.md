@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=Nuxt&logoColor=white" alt="Nuxt" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
   <img src="https://img.shields.io/badge/Laravel-777BB4?style=for-the-badge&logo=Laravel&logoColor=white" alt="Laravel" />
 
@@ -29,8 +30,7 @@
 <br>
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoabarbosa&hide=jupyter%20notebook&layout=compact&langs_count=8&theme=radical&hide_border=true" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=gustavoabarbosa&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=GustavoABarbosa&theme=dark&hide_border=true&border_radius=20&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
 </div>
 
 <br>
